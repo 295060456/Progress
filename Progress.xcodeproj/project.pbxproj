@@ -57,6 +57,7 @@
 		6334836525652252007BEF10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		633483712565226F007BEF10 /* PHCycleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PHCycleView.m; sourceTree = "<group>"; };
 		633483722565226F007BEF10 /* PHCycleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PHCycleView.h; sourceTree = "<group>"; };
+		C57D1EE3256B95CF00BF05A7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +88,7 @@
 		6334833025652250007BEF10 = {
 			isa = PBXGroup;
 			children = (
+				C57D1EE3256B95CF00BF05A7 /* README.md */,
 				6334833B25652250007BEF10 /* Progress */,
 				6334835725652251007BEF10 /* ProgressTests */,
 				6334836225652252007BEF10 /* ProgressUITests */,
