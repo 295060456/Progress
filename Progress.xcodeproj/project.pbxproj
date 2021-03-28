@@ -85,6 +85,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		29BDE07E261092D8000A9351 /* Progress */ = {
+			isa = PBXGroup;
+			children = (
+				633483722565226F007BEF10 /* PHCycleView.h */,
+				633483712565226F007BEF10 /* PHCycleView.m */,
+			);
+			path = Progress;
+			sourceTree = "<group>";
+		};
 		6334833025652250007BEF10 = {
 			isa = PBXGroup;
 			children = (
@@ -109,13 +118,12 @@
 		6334833B25652250007BEF10 /* Progress */ = {
 			isa = PBXGroup;
 			children = (
+				29BDE07E261092D8000A9351 /* Progress */,
 				C57D1DBB256B8CE400BF05A7 /* Others */,
 				C57D1EA0256B8D0E00BF05A7 /* AppDelegate & SceneDelegate */,
 				6334834D25652251007BEF10 /* Info.plist */,
 				6334834225652250007BEF10 /* ViewController.h */,
 				6334834325652250007BEF10 /* ViewController.m */,
-				633483722565226F007BEF10 /* PHCycleView.h */,
-				633483712565226F007BEF10 /* PHCycleView.m */,
 			);
 			path = Progress;
 			sourceTree = "<group>";
@@ -470,6 +478,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = dddd.Progress;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -486,6 +495,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = dddd.Progress;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
