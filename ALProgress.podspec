@@ -9,9 +9,9 @@
 Pod::Spec.new do |s|
 
 
-  s.name         = "Progress"
+  s.name         = "ALProgress"
 
-  s.version      = "1.1"
+  s.version      = "1.0"
 
   s.summary      = "iOS Progress 小组件"
 
